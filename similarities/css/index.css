@@ -1,0 +1,25 @@
+#header
+{
+	font-size: 48px;
+	color: #8be9fd;
+}
+
+h2
+{
+	color: #ffb86c;
+}
+
+a
+{
+	color: #ff79c6;
+}
+
+a:visited
+{
+	color: #bd93f9;
+}
+
+a:hover, a:visited:hover
+{
+	color: #50fa7b;
+}
